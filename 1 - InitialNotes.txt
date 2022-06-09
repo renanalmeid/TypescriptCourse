@@ -1,0 +1,9 @@
+### Intro 
+
+- Alternative to JavaScript 
+- Allow to use strict types 
+- suppor arrow functions, let, const
+- extra features: generics interfaces tuples
+- 
+
+-
